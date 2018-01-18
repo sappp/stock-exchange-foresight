@@ -1,0 +1,12 @@
+.Header {
+
+}
+.Header-brand {
+  padding-right: 50px;
+}
+.Header-select-holder {
+  width: 300px !important;
+}
+.Header-button {
+  margin-right: 5px;
+}

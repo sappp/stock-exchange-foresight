@@ -1,0 +1,25 @@
+.MainBar {
+  height: 50px;
+}
+.Mainbar-username-container {
+  padding-top: 20px;
+}
+.Mainbar-username {
+  font-size: 20px;
+}
+.Mainbar-funds-container {
+  padding-top: 15px;
+}
+
+.MainBar-funds-label {
+  padding-right: 10px;
+  font-size: 15px;
+}
+
+.Mainbar-funds {
+  font-size: 25px;
+}
+
+.Mainbar-line {
+  margin-top: 0rem
+}

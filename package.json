@@ -1,0 +1,22 @@
+{
+  "name": "stock-exchange-foresight",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "react": "^16.2.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0",
+    "react-select": "^1.2.1",
+    "reactstrap": "^5.0.0-alpha.4",
+    "source-map-explorer": "^1.5.0"
+  },
+  "scripts": {
+    "analyze": "source-map-explorer build/static/js/main.*",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,31 @@
+.StockBuyModal {
+
+}
+.StockBuyModal-info-holder {
+  max-width: 190px;
+}
+.StockBuyModal-info-title {
+  text-align: center;
+  text-transform: uppercase;
+}
+.StockBuyModal-info-symbol {
+  font-size: 12px;
+}
+.StockBuyModal-header-holder {
+  height: 25px;
+  padding: 0px;
+  margin: 5px;
+}
+.StockBuyModal-quantity-input {
+  width: 65px;
+}
+.StockBuyModal-quantity-label {
+  padding-top: 4px;
+  padding-right: 6px;
+}
+.StockBuyModal-amount-holder {
+  padding-top: 5px;
+}
+.StockBuyModal-amount-label {
+  padding-right: 9px;
+}
